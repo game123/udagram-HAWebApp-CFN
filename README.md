@@ -2,7 +2,7 @@
 
 ### Second project of the Udacity Cloud DevOps Nanodegree program.
 
-![img-1](HAWebApp.jpeg)
+![img-1](HAWebApp.png)
 
 > In this project, I deployed web servers for a highly available web app using CloudFormation.
 > I wrote the code that creates and deploys the infrastructure and application from the ground up,
